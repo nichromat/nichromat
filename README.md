@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nichromat
-- 👀 I’m interested in Android development, AI development and low level programmin.
+- 👀 I’m interested in Android development, AI development and low level programming.
 - 🌱 I’m currently learning Java and Git.
 - 💞️ I’m looking to collaborate on nothing for the moment
 - 📫 How to reach me https://t.me/nichromat
